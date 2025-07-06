@@ -1,3 +1,4 @@
+#Children of Mana (Nintendo DS) NST image to TGA converter
 from codingTools import *
 
 files = dialogs.files()
